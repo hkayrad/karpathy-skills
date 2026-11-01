@@ -1,0 +1,9 @@
+{
+  "name": "karpathy-skills",
+  "version": "1.0.0",
+  "description": "Implements carpathy coding skills to the agent.",
+  "author": {
+    "name": "Hakan Kayra Doğan"
+  },
+  "repository": "https://github.com/hkayrad/karpathy-skills"
+}

@@ -1,8 +1,3 @@
----
-name: karpathy-coding
-description: Makes the coding slower but with more caution.
----
-
 # Karpathy Guidelines 12 Rules
 
 These rules apply to every task in this project unless explicitly overridden.
